@@ -24,6 +24,8 @@ N’hésite pas à me contacter pour plus d’informations et de précisions sur
 
 Feel free to reach out for more information and details about the internship options! It would be great to discuss it together. 😄
 
+Last updated 23/10/2024
+
 ---
 
 ## 📫 Contact
