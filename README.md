@@ -1,11 +1,11 @@
 # 👨‍🎓 Étudiant en Informatique | Computer Science Student
 
 ## Qui suis-je ? | Who Am I?
-Salut ! Je suis un étudiant en deuxième année d'informatique, passionné par la cybersécurité, l'IA et le Big Data. 🚀 J'adore apprendre et explorer de nouvelles technologies pour résoudre des problèmes complexes.
+Salut ! Je suis un étudiant en deuxième année d'ingénierie informatique a l'ISEN Nantes, passionné par la cybersécurité avec un intéret dans l'IA/Big Data. 🚀 J'adore apprendre et explorer de nouvelles technologies pour résoudre des problèmes complexes.
 
 ---
 
-Hello! I’m a second-year computer science student, passionate about cybersecurity, AI, and Big Data. 🚀 I love learning and exploring new technologies to solve complex problems.
+Hello! I’m a second-year engineering comp-sci student, passionate about cybersecurity with interests in AI/Big Data. 🚀 I love learning and exploring new technologies to solve complex problems.
 
 ## 📚 Ma Citation préférée | My Favorite Quote
 "La croissance intellectuelle devrait commencer à la naissance et ne cesser qu'à la mort." | "Intellectual growth should commence at birth and cease only at death."
