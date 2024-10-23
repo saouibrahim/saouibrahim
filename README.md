@@ -9,6 +9,7 @@ Hello! I’m a second-year engineering comp-sci student at ISEN Nantes, passiona
 
 ## 📚 Ma Citation préférée | My Favorite Quote
 "La croissance intellectuelle devrait commencer à la naissance et ne cesser qu'à la mort." | "Intellectual growth should commence at birth and cease only at death."
+- Albert Einstein
 
 ---
 
